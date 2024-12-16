@@ -15,3 +15,5 @@ S
 #tests/carbon-credit-trading.test.ts,7/e/7e5ecf48db6c35b41c7564489da481e78ede2168
 N
 contracts/iot-integration.clar,d/5/d53452ec45c20956d85d24ae67d8a59474ad4599
+M
+tests/iot-integration.test.ts,c/b/cb7c60aba045aa478fec259a880227d84f9a1437
