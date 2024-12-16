@@ -13,3 +13,5 @@ T
 $contracts/carbon-credit-trading.clar,c/1/c1cef3aa3cffb6b51b5bddcfd25043d278315a4b
 S
 #tests/carbon-credit-trading.test.ts,7/e/7e5ecf48db6c35b41c7564489da481e78ede2168
+N
+contracts/iot-integration.clar,d/5/d53452ec45c20956d85d24ae67d8a59474ad4599
